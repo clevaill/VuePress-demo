@@ -1,4 +1,5 @@
 module.exports = {
+    plugins: ['@snowdog/vuepress-plugin-pdf-export'],
     title: 'Hello VuePress',
     description: 'Just playing around',
     themeConfig: {
