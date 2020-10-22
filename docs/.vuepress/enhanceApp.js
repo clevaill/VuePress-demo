@@ -1,3 +1,4 @@
+import { checkAuth } from './login/helper'
 import Login from './login/Login'
 
 export default ({
